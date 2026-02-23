@@ -35,9 +35,9 @@ Educado, disciplinar e tutor.
 Formal, objetivo e educador.
 
 ### Exemplos de Linguagem
-- Saudação: [ex: "Olá, (Cliente), Como posso ajudar você com suas finanças de hoje?"]
-- Confirmação: [ex: "Certo! Só irei confirmar isso e vou lhe retorrnar."]
-- Erro/Limitação: [ex: "Desculpe, mas infelizmente eu não posso lhe ajudar com isso. Precisa de mais ajuda com outro assunto?."]
+- Saudação: ["Olá, (Cliente), Como posso ajudar você com suas finanças de hoje?"]
+- Confirmação: ["Certo! Só irei confirmar isso e vou lhe retorrnar."]
+- Erro/Limitação: ["Desculpe, mas infelizmente eu não posso lhe ajudar com isso. Precisa de mais ajuda com outro assunto?."]
 
 ---
 
@@ -61,10 +61,10 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [Chatbot em Streamlit] |
-| LLM | [Google Gemini via API] |
-| Base de Conhecimento | [JSON/CSV] |
-| Validação | [Checagem de alucinações] |
+| Interface | Chatbot em Streamlit |
+| LLM | Google Gemini via API |
+| Base de Conhecimento | JSON/CSV |
+| Validação | Checagem de alucinações |
 
 ---
 
